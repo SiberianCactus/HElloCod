@@ -1,0 +1,15 @@
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\bin\Debug\net6.0\NewProjec.exe
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\bin\Debug\net6.0\NewProjec.deps.json
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\bin\Debug\net6.0\NewProjec.runtimeconfig.json
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\bin\Debug\net6.0\NewProjec.dll
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\bin\Debug\net6.0\NewProjec.pdb
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\NewProjec.csproj.AssemblyReference.cache
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\NewProjec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\NewProjec.AssemblyInfoInputs.cache
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\NewProjec.AssemblyInfo.cs
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\NewProjec.csproj.CoreCompileInputs.cache
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\NewProjec.dll
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\refint\NewProjec.dll
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\NewProjec.pdb
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\NewProjec.genruntimeconfig.cache
+C:\Users\79130\OneDrive\Рабочий стол\C#\NewProjec\obj\Debug\net6.0\ref\NewProjec.dll
